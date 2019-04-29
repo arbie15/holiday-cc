@@ -1,11 +1,11 @@
 <?php
 
 
-$mysql_host = 'localhost';
+$mysql_host = 'cc-mini1-mysqldbserver.mysql.database.azure.com';
 
-$mysql_user = 'root';
+$mysql_user = 'mysqldbuser@cc-mini1-mysqldbserver';
 
-$mysql_pass = '';
+$mysql_pass = 'Pooja@1502';
 
 global $conn;
 
